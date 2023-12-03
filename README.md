@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -20,4 +19,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishk04&" alt="nishk04" /></p>
 
-<h4>Welcome to my Coding Projects: </h4>
+<h3 align="left">Welcome to my Coding Projects:</h3>
+<p>Python Projects:</p>
+
