@@ -25,7 +25,7 @@
 <p>2. <a href=""></a></p>
 <br>
 <p>FTC Projects: </p>
-<p>1. <a href="">OpenCV Team Prop Detection</a></p>
+<p>1. <a href="https://github.com/Nishk04/FTC-OpenCV/tree/main">OpenCV Team Prop Detection</a></p>
 <br>
 <p>Python Projects:</p>
 <p>1. <a href="https://github.com/Nishk04/Rock-Paper-Scissor/tree/main">Rock-Paper-Scissors Bot</a></p>
