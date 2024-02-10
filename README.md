@@ -27,6 +27,7 @@
 <p>FTC Projects: </p>
 <p>1. <a href="https://github.com/Nishk04/FTC-OpenCV/tree/main">OpenCV Team Prop Detection</a></p>
 <br>
-<p>Python Projects:</p>
+<p>Python Projects (oldest to lastest):</p>
 <p>1. <a href="https://github.com/Nishk04/Rock-Paper-Scissor/tree/main">Rock-Paper-Scissors Bot</a></p>
 <p>2. <a href="https://github.com/Nishk04/Tic-Tac-Toe-Bot/tree/main">Tic-Tac-Toe AI Bot (Minimax Algorithm)</p>
+<p>3. <a href="https://github.com/Nishk04/Speech-To-Text">Speech To Text Converter</p>
