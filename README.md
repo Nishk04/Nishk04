@@ -21,8 +21,9 @@
 
 <h2 align="left">Welcome to my Coding Projects:</h2>
 <h3>FRC Projects: </h3>
-<p>1. <a href="https://github.com/Nishk04/2022-IAP-Turret">Turret + PhotonVision</a></p>
-<p>2. <a href=""></a></p>
+<ol>
+  <li><a href="https://github.com/Nishk04/2022-IAP-Turret">Turret + PhotonVision</li>
+</ol>
 <br>
 <h3>FTC Projects: </h3>
 <ul>
