@@ -28,6 +28,7 @@
 <ol>
   <li><a href="https://github.com/Nishk04/FTC-OpenCV/tree/main">OpenCV Team Prop Detection</li>
 <ol>
+<br>
 <h3>Python Projects (latest to oldest):</h3>
 <ol>
   <li><a href="https://github.com/Nishk04/Shopping-Predictor-Model">Shopping Predictor Model (Scikit + KNN)</li>
