@@ -26,9 +26,9 @@
 </ol>
 <br>
 <h3>FTC Projects: </h3>
-<ul>
+<ol>
   <li><a href="https://github.com/Nishk04/FTC-OpenCV/tree/main">OpenCV Team Prop Detection</li>
-<ul>
+<ol>
 <br>
 <h3>Python Projects (latest to oldest):</h3>
 <ol>
@@ -37,4 +37,9 @@
   <li><a href="https://github.com/Nishk04/Speech-To-Text">Speech To Text Converter</li>
   <li><a href="https://github.com/Nishk04/Tic-Tac-Toe-Bot/tree/main">Tic-Tac-Toe AI Bot (Minimax Algorithm)</li>
   <li><a href="https://github.com/Nishk04/Rock-Paper-Scissor/tree/main">Rock-Paper-Scissors Bot</a></li>
+</ol>
+<br>
+<h3>Webdev Projects: </h3>
+<ol>
+  <li>fill in</li>
 </ol>
