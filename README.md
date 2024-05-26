@@ -19,16 +19,20 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishk04&theme=onedark" alt="nishk04" /></p>
 
-<h3 align="left">Welcome to my Coding Projects:</h3>
-<p>FRC Projects: </p>
+<h2 align="left">Welcome to my Coding Projects:</h2>
+<h3>FRC Projects: </h3>
 <p>1. <a href="https://github.com/Nishk04/2022-IAP-Turret">Turret + PhotonVision</a></p>
 <p>2. <a href=""></a></p>
 <br>
-<p>FTC Projects: </p>
-<p>1. <a href="https://github.com/Nishk04/FTC-OpenCV/tree/main">OpenCV Team Prop Detection</a></p>
-<br>
-<p>Python Projects (oldest to lastest):</p>
-<p>1. <a href="https://github.com/Nishk04/Rock-Paper-Scissor/tree/main">Rock-Paper-Scissors Bot</a></p>
-<p>2. <a href="https://github.com/Nishk04/Tic-Tac-Toe-Bot/tree/main">Tic-Tac-Toe AI Bot (Minimax Algorithm)</p>
-<p>3. <a href="https://github.com/Nishk04/Speech-To-Text">Speech To Text Converter</p>
-<p>4. <a href="https://github.com/Nishk04/Personal-Voice-Assistant">Personal Voice Assistant (Engine: Chatgpt)</p>
+<h3>FTC Projects: </h3>
+<ol>
+  <li><a href="https://github.com/Nishk04/FTC-OpenCV/tree/main">OpenCV Team Prop Detection</li>
+<ol>
+<h3>Python Projects (latest to oldest):</h3>
+<ol>
+  <li><a href="https://github.com/Nishk04/Shopping-Predictor-Model">Shopping Predictor Model (Scikit + KNN)</li>
+  <li><a href="https://github.com/Nishk04/Personal-Voice-Assistant">Personal Voice Assistant (Engine: Chatgpt)</li>
+  <li><a href="https://github.com/Nishk04/Speech-To-Text">Speech To Text Converter</li>
+  <li><a href="https://github.com/Nishk04/Tic-Tac-Toe-Bot/tree/main">Tic-Tac-Toe AI Bot (Minimax Algorithm)</li>
+  <li><a href="https://github.com/Nishk04/Rock-Paper-Scissor/tree/main">Rock-Paper-Scissors Bot</a></li>
+</ol>
