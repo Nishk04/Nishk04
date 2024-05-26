@@ -20,26 +20,31 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishk04&theme=onedark" alt="nishk04" /></p>
 
 <h2 align="left">Welcome to my Coding Projects:</h2>
-<h3>FRC Projects: </h3>
+
+<h3>FRC Projects:</h3>
 <ol>
-  <li><a href="https://github.com/Nishk04/2022-IAP-Turret">Turret + PhotonVision</li>
+  <li><a href="https://github.com/Nishk04/2022-IAP-Turret">Turret + PhotonVision</a></li>
 </ol>
 <br>
-<h3>FTC Projects: </h3>
+
+<h3>FTC Projects:</h3>
 <ol>
-  <li><a href="https://github.com/Nishk04/FTC-OpenCV/tree/main">OpenCV Team Prop Detection</li>
-<ol>
+  <li><a href="https://github.com/Nishk04/FTC-OpenCV/tree/main">OpenCV Team Prop Detection</a></li>
+</ol>
 <br>
+
 <h3>Python Projects (latest to oldest):</h3>
 <ol>
-  <li><a href="https://github.com/Nishk04/Shopping-Predictor-Model">Shopping Predictor Model (Scikit + KNN)</li>
-  <li><a href="https://github.com/Nishk04/Personal-Voice-Assistant">Personal Voice Assistant (Engine: Chatgpt)</li>
-  <li><a href="https://github.com/Nishk04/Speech-To-Text">Speech To Text Converter</li>
-  <li><a href="https://github.com/Nishk04/Tic-Tac-Toe-Bot/tree/main">Tic-Tac-Toe AI Bot (Minimax Algorithm)</li>
+  <li><a href="https://github.com/Nishk04/Shopping-Predictor-Model">Shopping Predictor Model (Scikit + KNN)</a></li>
+  <li><a href="https://github.com/Nishk04/Personal-Voice-Assistant">Personal Voice Assistant (Engine: Chatgpt)</a></li>
+  <li><a href="https://github.com/Nishk04/Speech-To-Text">Speech To Text Converter</a></li>
+  <li><a href="https://github.com/Nishk04/Tic-Tac-Toe-Bot/tree/main">Tic-Tac-Toe AI Bot (Minimax Algorithm)</a></li>
   <li><a href="https://github.com/Nishk04/Rock-Paper-Scissor/tree/main">Rock-Paper-Scissors Bot</a></li>
 </ol>
 <br>
-<h3>Webdev Projects: </h3>
+
+<h3>Webdev Projects:</h3>
 <ol>
   <li>fill in</li>
 </ol>
+
