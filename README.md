@@ -25,9 +25,9 @@
 <p>2. <a href=""></a></p>
 <br>
 <h3>FTC Projects: </h3>
-<ol>
+<ul>
   <li><a href="https://github.com/Nishk04/FTC-OpenCV/tree/main">OpenCV Team Prop Detection</li>
-<ol>
+<ul>
 <br>
 <h3>Python Projects (latest to oldest):</h3>
 <ol>
