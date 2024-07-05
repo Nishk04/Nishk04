@@ -45,6 +45,6 @@
 
 <h3>Webdev Projects:</h3>
 <ol>
-  <li><a href="https://github.com/Nishk04/Physics-Website">AP Physics 1 Website (practice)</li>
+  <li><a href="https://github.com/Nishk04/Website">Website (webdev practice w/Flask)</li>
 </ol>
 
