@@ -35,7 +35,7 @@
 
 <h3>Python Projects (latest to oldest):</h3>
 <ol>
-  <li><a href="https://github.com/Nishk04/Traffic-Signs-Detection">Traffic Sign Detection (TensorFlow: Keras)</a></li>
+  <li><a href="https://github.com/Nishk04/Traffic-Signs-Detection">Traffic Sign Detection CNN (TensorFlow)</a></li>
   <li><a href="https://github.com/Nishk04/Shopping-Predictor-Model">Shopping Predictor Model (Scikit + KNN)</a></li>
   <li><a href="https://github.com/Nishk04/Personal-Voice-Assistant">Personal Voice Assistant (Engine: Chatgpt)</a></li>
   <li><a href="https://github.com/Nishk04/Speech-To-Text">Speech To Text Converter</a></li>
