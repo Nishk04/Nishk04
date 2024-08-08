@@ -49,3 +49,7 @@
   <li><a href="https://github.com/Nishk04/Website">Website (webdev practice w/Flask)</li>
 </ol>
 
+<h3>USC Biomechanics Lab:</h3>
+<ul>
+  <li><a href="https://github.com/Westview-USC-Biomechanics-Collaboration/Prepare2Play-Learning-Experience">Software Development</li>
+</ul>
