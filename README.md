@@ -24,17 +24,20 @@
 <h3>FRC Projects:</h3>
 <ol>
   <li><a href="https://github.com/Nishk04/2022-IAP-Turret">Turret + PhotonVision</a></li>
+  <li><a href="https://github.com/frc-team-3341/2025-ReefScape"> Localization with Limelight (2024-2025 Reefscape)</a></li>
 </ol>
 <br>
 
 <h3>FTC Projects:</h3>
 <ol>
   <li><a href="https://github.com/Nishk04/FTC-OpenCV/tree/main">OpenCV Team Prop Detection</a></li>
+  <li><a href="https://github.com/GearUp12499-org/GearUp2024-5">Sample Detection for Claw (2024-2025 Into the Deep)</a></li>
 </ol>
 <br>
 
 <h3>Python Projects (latest to oldest):</h3>
 <ol>
+  <li><a href="https://github.com/Nishk04/Smart-Traffic-Signal">Smart Traffic Signal (PLTW Digital Electronics Final Project)</a></li>
   <li><a href="https://github.com/Nishk04/Traffic-Signs-Detection">Traffic Sign Detection CNN (TensorFlow)</a></li>
   <li><a href="https://github.com/Nishk04/Shopping-Predictor-Model">Shopping Predictor Model (Scikit + KNN)</a></li>
   <li><a href="https://github.com/Nishk04/Personal-Voice-Assistant">Personal Voice Assistant (Engine: Chatgpt)</a></li>
